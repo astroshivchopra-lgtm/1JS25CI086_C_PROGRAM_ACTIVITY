@@ -2,8 +2,8 @@
 C PROGRAM ACTIVITY FOR PROGRAMMING IN C COURSE
 # C Programming Activity
 
-Name: YOUR NAME
-USN: YOUR USN
+Name: SHIV CHOPRA
+USN: 1JS25CI086
 Semester/Section: ________
 Program Title: Simple Addition of Two Numbers
 
